@@ -27,7 +27,7 @@
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,python,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
@@ -49,10 +49,8 @@
 
 | 🌟 Project | 📜 Description | 🛠️ Tech Stack |
 |------------|----------------|----------------|
-| 🚀 [Sahayak](https://github.com/Alok0kumar/sahayak) | Hyperlocal service platform for Tier-2 cities | React, Node.js, Express |
-| 🎵 [Moodify](https://github.com/Alok0kumar/moodify) | Suggests music based on mood & weather | HTML, CSS, JS |
-| 🧮 [Advanced Calculator](https://github.com/Alok0kumar/calculator) | Calculator with exponentiation & root ops | JavaScript |
-| 💼 [Portfolio Website](https://github.com/Alok0kumar/portfolio) | My personal portfolio site | React, CSS |
+| 🚀 [Printables](https://github.com/Alok0kumar/diary-dreams-shop) | Customisable Stationery shop | React, Typescript, javascript |
+| 📖 [CampusNotes](https://github.com/Alok0kumar/CampusNotes) | An online platform for finding academic materials like PPTs and PYQs for my college | HTML, CSS, JS |
 
 ---
 
@@ -68,10 +66,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/alok0kumar">
+  <a href="www.linkedin.com/in/alok-kumar-699785307">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:alok0kumar@gmail.com">
+  <a href="mailto:herealok01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Alok0kumar">
