@@ -96,6 +96,4 @@
   <!--img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/graph.svg" alt="activity graph" /-->
 <!-- </p> -->
 
----
-
 ⭐ *Thanks for stopping by! Don’t forget to star repositories that inspire you.* 🌌
