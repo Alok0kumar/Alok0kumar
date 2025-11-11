@@ -94,9 +94,9 @@
 
 ## 🧩 Fun Stats Animation
 
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/graph.svg" alt="activity graph" />
-</p>
+<!-- <p align="center"> -->
+  <!--img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/graph.svg" alt="activity graph" /-->
+<!-- </p> -->
 
 ---
 
