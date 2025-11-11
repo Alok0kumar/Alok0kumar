@@ -37,7 +37,9 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Alok0kumar?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="Alok Kumar's LeetCode Stats" />
+  <a href="https://leetcode.com/u/alok01kumar/">
+    <img src="https://leetcard.jacoblin.cool/alok01kumar?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="Alok Kumar's LeetCode Stats" />
+  </a>
 </p>
 
 ---
@@ -47,6 +49,7 @@
 <p align="center">
   <a href="https://github.com/Alok0kumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/alok0kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://leetcode.com/u/alok01kumar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" /></a>
 </p>
 
 ---
