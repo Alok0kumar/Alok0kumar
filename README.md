@@ -49,8 +49,8 @@
 
 | 🌟 Project | 📜 Description | 🛠️ Tech Stack |
 |------------|----------------|----------------|
-| 🚀 [Printables](https://github.com/Alok0kumar/diary-dreams-shop) | Customisable Stationery shop | React, TypeScript, JavaScript |
-| 📖 [CampusNotes](https://github.com/Alok0kumar/CampusNotes) | An online platform for finding academic materials like PPTs and PYQs for my college | HTML, CSS, JS |
+| 🚀  [Printables](https://github.com/Alok0kumar/diary-dreams-shop) | Customisable Stationery shop | React, TypeScript, JavaScript |
+| 📖  [CampusNotes](https://github.com/Alok0kumar/CampusNotes) | An online platform for finding academic materials like PPTs and PYQs for my college | HTML, CSS, JS |
 
 ---
 
