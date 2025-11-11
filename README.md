@@ -1,81 +1,92 @@
-<!-- 💻 Alok Kumar | GitHub Profile README -->
+<!-- 🌌 Alok Kumar | Dark Themed GitHub Profile README -->
 
-<h1 align="center">👋 Hey there! I'm <span style="color:#00C4FF;">Alok Kumar</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Alok+Kumar!;Frontend+Developer+💻;Tech+Explorer+🚀;AI+%26+Web+Enthusiast+🤖" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  🚀 <strong>Frontend Developer</strong> | 💻 B.Tech 2nd Year Student | 🌱 Exploring Full Stack & AI/ML  
+  🌑 <strong>Frontend Developer</strong> | 💻 B.Tech 2nd Year Student | 🌱 Learning Full Stack & AIML  
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 I'm a B.Tech 2nd year student passionate about **Web Development**, **DSA**, and **AI/ML**.  
-💡 I enjoy building creative, functional, and user-friendly websites.  
-🌱 Currently learning **Full Stack Development (MERN)** and exploring new technologies.  
-⚙️ I love to **solve problems using C++ (DSA)** and experiment with **Python**.  
-🚀 Always curious to learn, build, and contribute to open-source projects.
+🎓 **B.Tech 2nd Year Student** passionate about building meaningful and aesthetic digital experiences.  
+💡 Skilled in **HTML, CSS, JavaScript, React, C++, Python, and Git/GitHub**.  
+🚀 Currently learning **Full Stack Development (MERN)** and exploring **AI/ML**.  
+⚙️ Strong foundation in **DSA using C++**, focused on writing clean and efficient code.  
+🎯 Curious, creative, and always open to new challenges & technologies.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alok0kumar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alok0kumar&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alok0kumar&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alok0kumar&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok0kumar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok0kumar&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 💎 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
+| 🌟 Project | 📜 Description | 🛠️ Tech Stack |
+|------------|----------------|----------------|
 | 🚀 [Sahayak](https://github.com/Alok0kumar/sahayak) | Hyperlocal service platform for Tier-2 cities | React, Node.js, Express |
 | 🎵 [Moodify](https://github.com/Alok0kumar/moodify) | Suggests music based on mood & weather | HTML, CSS, JS |
-| 🧮 [Advanced Calculator](https://github.com/Alok0kumar/calculator) | Calculator with exponentiation & root features | JavaScript |
-| 💡 [Portfolio Website](https://github.com/Alok0kumar/portfolio) | Personal portfolio showcasing my projects | React, CSS |
+| 🧮 [Advanced Calculator](https://github.com/Alok0kumar/calculator) | Calculator with exponentiation & root ops | JavaScript |
+| 💼 [Portfolio Website](https://github.com/Alok0kumar/portfolio) | My personal portfolio site | React, CSS |
 
 ---
 
-## 💬 Let's Connect!
+## 🧠 Currently Exploring
+
+- ⚡ Full Stack Development (MERN)  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧩 Open Source Contributions  
+- 🧠 Data Structures & Algorithms  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/alok0kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alok0kumar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Alok0kumar">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://alok0kumar.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Quote
+## 🦾 Quote of the Day
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
+> 💭 “The best way to predict the future is to create it.” — Peter Drucker
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="fun gif" />
@@ -83,4 +94,12 @@
 
 ---
 
-⭐️ *Thanks for visiting my GitHub! Feel free to star a repo or connect with me!* 🌍
+## 🧩 Fun Stats Animation
+
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/graph.svg" alt="activity graph" />
+</p>
+
+---
+
+⭐ *Thanks for stopping by! Don’t forget to star repositories that inspire you.* 🌌
