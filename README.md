@@ -14,13 +14,13 @@
 
 ---
 
-## 🧠 About Me
+## 📚 About Me
 
 🎓 **B.Tech 2nd Year Student** passionate about building meaningful and aesthetic digital experiences.  
 💡 Skilled in **HTML, CSS, JavaScript, React, C++, Python, and Git/GitHub**.  
 🚀 Currently learning **Full Stack Development (MERN)** and exploring **AI/ML**.  
 ⚙️ Strong foundation in **DSA using C++**, focused on writing clean and efficient code.  
-🎯 Curious, creative, and always open to new challenges & technologies.
+📖 Curious, creative, and always open to new challenges & technologies.
 
 ---
 
@@ -49,24 +49,24 @@
 
 | 🌟 Project | 📜 Description | 🛠️ Tech Stack |
 |------------|----------------|----------------|
-| 🚀 [Printables](https://github.com/Alok0kumar/diary-dreams-shop) | Customisable Stationery shop | React, Typescript, javascript |
+| 🚀 [Printables](https://github.com/Alok0kumar/diary-dreams-shop) | Customisable Stationery shop | React, TypeScript, JavaScript |
 | 📖 [CampusNotes](https://github.com/Alok0kumar/CampusNotes) | An online platform for finding academic materials like PPTs and PYQs for my college | HTML, CSS, JS |
 
 ---
 
-## 🧠 Currently Exploring
+## 📘 Currently Exploring
 
 - ⚡ Full Stack Development (MERN)  
 - 🤖 Artificial Intelligence & Machine Learning  
 - 🧩 Open Source Contributions  
-- 🧠 Data Structures & Algorithms  
+- 📗 Data Structures & Algorithms  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/alok-kumar-699785307">
+  <a href="https://www.linkedin.com/in/alok-kumar-699785307/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:herealok01@gmail.com">
@@ -75,8 +75,8 @@
   <a href="https://github.com/Alok0kumar">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://alok0kumar.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://leetcode.com/u/alok01kumar/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
