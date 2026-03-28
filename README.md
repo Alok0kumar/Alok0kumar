@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  🌑 <strong>Frontend Developer</strong> | 💻 B.Tech 2nd Year Student | 🌱 Learning Full Stack & AIML  
+  🌑 <strong>MERN DEVELOPER</strong> | 💻 B.Tech 2nd Year Student | 🌱 Learning Full Stack & AIML  
 </p>
 
 <p align="center">
