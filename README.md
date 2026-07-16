@@ -26,8 +26,10 @@
 
 ## ⚙️ Tech Stack & Tools
 
+## ⚙️ Tech Stack & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,mySQL,cpp,python,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,firebase,supabase,cpp,python,git,github,vscode,figma,netlify,render&theme=dark" />
 </p>
 
 ---
