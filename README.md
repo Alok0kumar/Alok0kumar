@@ -16,7 +16,7 @@
 
 ## 📚 About Me
 
-🎓 **B.Tech 2nd Year Student** passionate about building meaningful and aesthetic digital experiences.  
+🎓 **B.Tech 3yr Year Student** passionate about building meaningful and aesthetic digital experiences.  
 💡 Skilled in **HTML, CSS, JavaScript, React, C++, Python, and Git/GitHub**.  
 🚀 Currently learning **Full Stack Development (MERN)** and exploring **AI/ML**.  
 ⚙️ Strong foundation in **DSA using C++**, focused on writing clean and efficient code.  
